@@ -39,11 +39,8 @@
 **Was ist eine Schlüsseleigenschaft von Trunk-Based Development?**
 
 - [ ] A. Entwickler arbeiten auf separaten Feature-Branches und führen ihre Arbeit nur gelegentlich in den Hauptbranch ein
-
 - [ ] B. Entwickler arbeiten direkt am Hauptbranch und fügen ihre Änderungen häufig und in kleinen Einheiten hinzu
-
 - [ ] C. Entwickler arbeiten ohne die Verwendung von Branches
-
 - [ ] D. Entwickler fügen ihre Änderungen immer nur am Ende eines Entwicklungszyklus in den Hauptbranch ein
 
 

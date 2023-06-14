@@ -1,3 +1,3 @@
 # Instructions
 
-Wechsle zum (remote) Branch "riddles"
+Verwende <code>git diff</code>, um den Schatz zu finden.

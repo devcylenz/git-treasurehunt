@@ -4,16 +4,16 @@
 
 - [ ] A. Er erstellt einen neuen Branch und wechselt zu diesem
 - [ ] B. Er löscht den angegebenen Branch
-- [ ] C. Er wechselt zu dem angegebenen Branch
-- [ ] D. Er verschmilzt den aktuellen Branch mit dem angegebenen Branch
+- [ ] C. Er verschmilzt den aktuellen Branch mit dem angegebenen Branch
+- [ ] D. Er wechselt zum angegebenen Branch
 
 
 
 **Was macht der `git stash` Befehl?**
 
-- [ ] A. Er legt Änderungen im aktuellen Branch ab und ermöglicht das Wechseln zu einem anderen Branch
+- [ ] A. Er ermöglicht das Umbenennen von Git-Tags
 - [ ] B. Er verschmilzt Änderungen zwischen verschiedenen Branches
-- [ ] C. Er ermöglicht das Umbenennen von Git-Tags
+- [ ] C. Er legt Änderungen im aktuellen Branch ab und ermöglicht das Wechseln zu einem anderen Branch
 - [ ] D. Er löscht nicht verfolgte Dateien aus dem Arbeitsverzeichnis
 
 
@@ -29,10 +29,10 @@
 
 **Was ist der Hauptunterschied zwischen `git switch` und `git checkout`?**
 
-- [ ] A. `git switch` kann nur zum Wechseln zwischen Branches verwendet werden, während `git checkout` auch zum Auschecken von Dateien, Commits und Tags verwendet werden kann
-- [ ] B. `git switch` kann zum Mischen von Branches verwendet werden, während `git checkout` das nicht kann
-- [ ] C. Es gibt keinen Unterschied zwischen `git switch` und `git checkout`
-- [ ] D. `git switch` erstellt einen neuen Branch, während `git checkout` das nicht tut
+- [ ] A. `git switch` kann zum Mischen von Branches verwendet werden, während `git checkout` das nicht kann
+- [ ] B. Es gibt keinen Unterschied zwischen `git switch` und `git checkout`
+- [ ] C. `git switch` erstellt einen neuen Branch, während `git checkout` das nicht tut
+- [ ] D. `git switch` kann nur zum Wechseln zwischen Branches verwendet werden, während `git checkout` auch zum Auschecken von Dateien, Commits und Tags verwendet werden kann
 
 
 
@@ -48,7 +48,7 @@
 **Welche Auswirkung hat der Befehl `git reset --hard <commit>`?**
 
 - [ ] A. Er stellt das Repository auf den Zustand des angegebenen Commits zurück und behält alle Änderungen bei, die nach diesem Commit gemacht wurden
-- [ ] B. Er stellt das Repository auf den Zustand des angegebenen Commits zurück und verwirft alle Änderungen, die nach diesem Commit gemacht wurden
+- [ ] B. Er erstellt einen neuen Branch und wechselt zu diesem
 - [ ] C. Er entfernt den angegebenen Commit aus dem Repository
-- [ ] D. Er erstellt einen neuen Branch und wechselt zu diesem
+- [ ] D. Er stellt das Repository auf den Zustand des angegebenen Commits zurück und verwirft alle Änderungen, die nach diesem Commit gemacht wurden
 
